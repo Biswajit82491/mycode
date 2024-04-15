@@ -9,4 +9,7 @@ git config --global user.name "same name as par github "
 git config --global user.name "same email as par github "
 git config --list for imformation about name and email ;
 
-after modefie filles : add and commit
+after modefie filles : add and commit =>
+
+1. git add filename
+2. git commite -m send massage
